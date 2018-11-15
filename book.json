@@ -1,0 +1,18 @@
+{
+  "title": "scuttle-docs",
+  "author": "mixmix",
+  "gitbook": "^3.2.3",
+  "plugins": [
+    "theme-code",
+    "splitter",
+    "prism",
+    "folding-menu",
+    "-sharing",
+    "-highlight"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    }
+  }
+}

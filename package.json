@@ -1,0 +1,28 @@
+{
+  "name": "scuttlebutt-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SUMMARY.md",
+  "scripts": {
+    "postinstall": "gitbook install",
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssbc/scuttlebutt-docs.git"
+  },
+  "homepage": "https://github.com/ssbc/scuttlebutt-docs#readme",
+  "keywords": [
+    "ssb",
+    "scuttlebutt",
+    "ecosystem",
+    "docs"
+  ],
+  "author": "mixmix",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ssbc/scuttlebutt-docs/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
