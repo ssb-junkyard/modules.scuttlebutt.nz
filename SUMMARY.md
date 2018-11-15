@@ -4,10 +4,9 @@
 
 * [Scuttlebot](scuttlebot/index.md)
   * [scuttlebot](scuttlebot/scuttlebot.md) (meh)
-
-* [Scuttlebot Plugins](plugins/index.md)
-  * [ssb-about](./plugins/ssb-about.md)
-  * [ssb-backlinks](./plugins/ssb-backlinks.md)
+  * [plugins](plugins/index.md)
+    * [ssb-about](./plugins/ssb-about.md)
+    * [ssb-backlinks](./plugins/ssb-backlinks.md)
 
 * [**Schemas**](schemas/index.md)
   * [ssb-invite-schema](./schemas/ssb-invite-schema.md)

@@ -3,6 +3,7 @@
   "author": "mixmix",
   "gitbook": "^3.2.3",
   "plugins": [
+    "anchors",
     "theme-code",
     "splitter",
     "prism",
