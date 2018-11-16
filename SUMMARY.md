@@ -7,6 +7,13 @@
 ### server
 
 * [scuttlebot](server/scuttlebot.md)
+* [flume]() // TODO
+  * [flumedb]() // ... TODO all these
+  * [flumeview-level]()
+  * [flumeview-query]()
+  * [flumeview-search]()
+  * [flumeview-reduce]()
+  * [flumelog-offest]()
 * [plugins](plugins/README.md)
   * [ssb-about\*](plugins/ssb-about.md)  // \* marks that this plugin depends on other plugins
   * [ssb-backlinks](plugins/ssb-backlinks.md)
