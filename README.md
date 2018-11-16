@@ -1,4 +1,4 @@
-# Scuttlebutt Modules
+# scuttlebutt modules
 
 ![](cover.jpg)
 
