@@ -1,5 +1,5 @@
 {
-  "name": "scuttlebutt-docs",
+  "name": "modules.scuttlebutt.nz",
   "version": "1.0.0",
   "description": "",
   "main": "SUMMARY.md",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssbc/scuttlebutt-docs.git"
+    "url": "git+https://github.com/ssbc/modules.scuttlebutt.nz.git"
   },
-  "homepage": "https://github.com/ssbc/scuttlebutt-docs#readme",
+  "homepage": "https://github.com/ssbc/modules.scuttlebutt.nz#readme",
   "keywords": [
     "ssb",
     "scuttlebutt",
@@ -21,8 +21,14 @@
   "author": "mixmix",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/ssbc/scuttlebutt-docs/issues"
+    "url": "https://github.com/ssbc/modules.scuttlebutt.nz/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-folding-menu": "^1.0.1",
+    "gitbook-plugin-prism": "^2.4.0",
+    "gitbook-plugin-splitter": "0.0.8",
+    "gitbook-plugin-theme-code": "0.0.24"
+  },
   "devDependencies": {}
 }
