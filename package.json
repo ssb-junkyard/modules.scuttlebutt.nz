@@ -5,7 +5,8 @@
   "main": "SUMMARY.md",
   "scripts": {
     "postinstall": "gitbook install",
-    "start": "gitbook serve"
+    "start": "gitbook serve",
+    "build": "gitbook build"
   },
   "repository": {
     "type": "git",
@@ -23,12 +24,6 @@
   "bugs": {
     "url": "https://github.com/ssbc/modules.scuttlebutt.nz/issues"
   },
-  "dependencies": {
-    "gitbook-plugin-anchors": "^0.7.1",
-    "gitbook-plugin-folding-menu": "^1.0.1",
-    "gitbook-plugin-prism": "^2.4.0",
-    "gitbook-plugin-splitter": "0.0.8",
-    "gitbook-plugin-theme-code": "0.0.24"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }

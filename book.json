@@ -3,17 +3,20 @@
   "author": "mixmix",
   "gitbook": "^3.2.3",
   "plugins": [
-    "anchors",
-    "theme-code",
-    "splitter",
-    "prism",
-    "folding-menu",
+    "theme-official@2.1.1", 
     "-sharing",
-    "-highlight"
+    "-fontsettings",
+    "anchors",
+    "prism",
+    "-highlight",
+    "sitemap"
   ],
   "pluginsConfig": {
     "theme-default": {
       "showLevel": false
+    },
+    "sitemap": {
+        "hostname": "https://modules.scuttlebutt.nz"
     }
   }
 }
