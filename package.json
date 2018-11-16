@@ -28,6 +28,7 @@
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-anchors": "^0.7.1",
     "gitbook-plugin-prism": "^2.4.0",
+    "gitbook-plugin-search-plus": "^1.0.3",
     "gitbook-plugin-sitemap": "^1.2.0",
     "gitbook-plugin-theme-official": "^2.1.1"
   },

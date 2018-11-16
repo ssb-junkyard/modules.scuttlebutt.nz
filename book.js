@@ -3,12 +3,10 @@ module.exports = {
   author: 'mixmix',
   gitbook: '^3.2.3',
   plugins: [
-    'theme-official@2.1.1',
-    '-sharing',
-    '-fontsettings',
     'anchors',
-    'prism',
-    '-highlight',
+    'theme-official@2.1.1', '-sharing', '-fontsettings',
+    'prism', '-highlight',
+    'search-plus', '-search', '-lunr',
     'sitemap'
   ],
   pluginsConfig: {
