@@ -15,6 +15,11 @@ module.exports = {
     },
     sitemap: {
       hostname: 'https://modules.scuttlebutt.nz'
+    },
+    prism: {
+      lang: {
+        ts: "typescript"
+      }
     }
   }
 }
