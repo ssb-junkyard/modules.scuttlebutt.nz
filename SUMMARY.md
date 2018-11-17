@@ -15,12 +15,17 @@
   * [ssb-ws (core)](server/plugins/ssb-ws.md)
   * [ssb-about](server/plugins/ssb-about.md)
   * [ssb-backlinks](server/plugins/ssb-backlinks.md)
+  * [ssb-contacts](server/plugins/ssb-contacts.md)
+  * [ssb-dht-invite](server/plugins/ssb-dht-invite.md)
+  * [ssb-identities](server/plugins/ssb-identities.md)
   * [ssb-links](server/plugins/ssb-links.md)
   * [ssb-meme](server/plugins/ssb-meme.md)
   * [ssb-names](server/plugins/ssb-names.md)
   * [ssb-private](server/plugins/ssb-private.md)
   * [ssb-query](server/plugins/ssb-query.md)
   * [ssb-search](server/plugins/ssb-search.md)
+  * [ssb-serve-blobs](server/plugins/ssb-serve-blobs.md)
+  * [ssb-threads](server/plugins/ssb-threads.md)
   * [ssb-unread](server/plugins/ssb-unread.md)
 * [flume]() // TODO
   * [flumedb]() // ... TODO all these
@@ -34,6 +39,13 @@
 
 * [ssb-client](client/ssb-client.md)
 * [ssb-config](client/ssb-config.md)
+* [markdown](client/markdown/README.md)
+  * [remark-images-to-ssb-serve-blobs](client/markdown/remark-images-to-ssb-serve-blobs.md)
+  * [remark-linkify-regex](client/markdown/remark-linkify-regex.md)
+  * [ssb-markdown](client/markdown/ssb-markdown.md)
+* [react-native](client/react-native/README.md)
+  * [react-native-ssb-client-keys](client/react-native/react-native-ssb-client-keys.md)
+  * [react-native-ssb-shims](client/react-native/react-native-ssb-shims.md)
 
 ### helpers
 
@@ -48,6 +60,7 @@
 * [scuttle-testbot](helpers/scuttle-testbot.md)
 * [ssb-sort](helpers/ssb-sort.md)
 * [ssb-ref](helpers/ssb-ref.md)
+* [ssb-typescript](helpers/ssb-typescript.md)
 * [ssb-blob-files](helpers/ssb-blob-files.md)
 
 ### schemas / validators
