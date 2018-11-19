@@ -27,13 +27,18 @@
   * [ssb-serve-blobs](server/plugins/ssb-serve-blobs.md)
   * [ssb-threads](server/plugins/ssb-threads.md)
   * [ssb-unread](server/plugins/ssb-unread.md)
-* [flume]() // TODO
-  * [flumedb]() // ... TODO all these
-  * [flumeview-level]()
-  * [flumeview-query]()
-  * [flumeview-search]()
-  * [flumeview-reduce]()
-  * [flumelog-offest]()
+* [flume](server/flume/README.md)
+  * [flumedb](server/flume/flumedb.md)
+  * [flumelog-idb](server/flume/flumelog-idb.md)
+  * [flumelog-level](server/flume/flumelog-level.md)
+  * [flumelog-memory](server/flume/flumelog-memory.md)
+  * [flumelog-offset](server/flume/flumelog-offset.md)
+  * [flumeview-bloom](server/flume/flumeview-bloom.md)
+  * [flumeview-hashtable](server/flume/flumeview-hashtable.md)
+  * [flumeview-level](server/flume/flumeview-level.md)
+  * [flumeview-query](server/flume/flumeview-query.md)
+  * [flumeview-reduce](server/flume/flumeview-reduce.md)
+  * [flumeview-search](server/flume/flumeview-search.md)
 
 ### client
 
